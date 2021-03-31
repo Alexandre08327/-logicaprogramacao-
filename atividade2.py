@@ -1,5 +1,5 @@
 def calcula_soma(lista):
-  lista = []
+  lista = [2,4,6]
   soma = 0
   for num in lista:
     soma += num
