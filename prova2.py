@@ -34,7 +34,7 @@ def exercicio3():
     
 _____________________________________________
     
-    def exercicio4():
+def exercicio4():
   lista = []
   menor7 = 0
   for i in lista:
