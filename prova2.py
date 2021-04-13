@@ -40,7 +40,7 @@ def exercicio4():
   for i in lista:
     if i < 7:
       menor7 +=1
-    if menor7/len(lista) >= 0.25:
-     return("Professor Coxa")
+    if menor7 < (len(lista) * 0.25):
+     return "Professor Coxa"
   else:
-     return("Professor Padrão")
+     return "Professor Padrão"
