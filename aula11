@@ -1,0 +1,1 @@
+print(str.join('---',  map(lambda x: str(x),lista filter(lambda x: x>2 and x<6,lista))))
